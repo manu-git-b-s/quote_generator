@@ -13,4 +13,4 @@ This GitHub repository contains a simple web page that showcases Random Quotes f
 
 ## Demo
 
-Check out the live demo [here]()
+Check out the live demo [here](https://quote-generator-manu.netlify.app/)
